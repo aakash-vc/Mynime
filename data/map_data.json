@@ -1,0 +1,44 @@
+{
+    "anime": [
+        "https://anilist.co/sitemap/anime-0.xml",
+        "https://anilist.co/sitemap/anime-1.xml"
+    ],
+    "manga": [
+        "https://anilist.co/sitemap/manga-0.xml",
+        "https://anilist.co/sitemap/manga-1.xml",
+        "https://anilist.co/sitemap/manga-2.xml",
+        "https://anilist.co/sitemap/manga-3.xml",
+        "https://anilist.co/sitemap/manga-4.xml",
+        "https://anilist.co/sitemap/manga-5.xml"
+    ],
+    "characters": [
+        "https://anilist.co/sitemap/characters-0.xml",
+        "https://anilist.co/sitemap/characters-1.xml",
+        "https://anilist.co/sitemap/characters-2.xml",
+        "https://anilist.co/sitemap/characters-3.xml",
+        "https://anilist.co/sitemap/characters-4.xml",
+        "https://anilist.co/sitemap/characters-5.xml",
+        "https://anilist.co/sitemap/characters-6.xml",
+        "https://anilist.co/sitemap/characters-7.xml",
+        "https://anilist.co/sitemap/characters-8.xml",
+        "https://anilist.co/sitemap/characters-9.xml",
+        "https://anilist.co/sitemap/characters-10.xml",
+        "https://anilist.co/sitemap/characters-11.xml"
+    ],
+    "staff": [
+        "https://anilist.co/sitemap/staff-0.xml",
+        "https://anilist.co/sitemap/staff-1.xml",
+        "https://anilist.co/sitemap/staff-2.xml",
+        "https://anilist.co/sitemap/staff-3.xml",
+        "https://anilist.co/sitemap/staff-4.xml",
+        "https://anilist.co/sitemap/staff-5.xml",
+        "https://anilist.co/sitemap/staff-6.xml",
+        "https://anilist.co/sitemap/staff-7.xml",
+        "https://anilist.co/sitemap/staff-8.xml",
+        "https://anilist.co/sitemap/staff-9.xml",
+        "https://anilist.co/sitemap/staff-10.xml"
+    ],
+    "articles": [
+        "https://anilist.co/sitemap/articles-0.xml"
+    ]
+}
